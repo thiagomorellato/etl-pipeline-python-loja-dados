@@ -1,0 +1,501 @@
+id_venda,data_venda,produto,categoria,quantidade,preco_unitario,cliente,cidade,estado,total_venda
+1,2024-01-01,Tênis,Esporte,5,300.0,Júlia,Uberlândia,MG,1500.0
+2,2024-02-09,Camisa,Moda,5,50.0,Sophia,Londrina,PR,250.0
+3,2024-01-01,Relógio,Acessórios,1,600.0,Samuel,Campinas,SP,600.0
+4,2024-01-12,Meia,Moda,4,15.0,Eloah,Niterói,RJ,60.0
+5,2024-03-24,Calça,Moda,4,120.0,Maria Cecília,Niterói,RJ,480.0
+6,2024-01-26,Shorts,Esporte,5,80.0,Alana,Uberlândia,MG,400.0
+7,2024-01-14,Meia,Moda,1,15.0,Luna,Pelotas,RS,15.0
+8,2024-03-28,Tênis,Esporte,2,300.0,Alana,Santos,SP,600.0
+9,2024-01-15,Tênis,Esporte,4,300.0,Nicolas,Londrina,PR,1200.0
+10,2024-01-16,Camisa,Moda,2,50.0,Cauê,Londrina,PR,100.0
+11,2024-03-05,Camisa,Moda,2,50.0,Mariane,São Paulo,SP,100.0
+12,2024-03-06,Jaqueta,Moda,2,250.0,Maysa,Pelotas,RS,500.0
+13,2024-03-02,Meia,Moda,2,15.0,Fernanda,São Paulo,SP,30.0
+14,2024-01-08,Relógio,Acessórios,4,600.0,Juan,Petrópolis,RJ,2400.0
+15,2024-04-07,Relógio,Acessórios,1,600.0,Sarah,Niterói,RJ,600.0
+16,2024-03-11,Tênis,Esporte,1,300.0,Isabella,Pelotas,RS,300.0
+17,2024-02-26,Tênis,Esporte,1,300.0,Emanuelly,Londrina,PR,300.0
+18,2024-01-04,Calça,Moda,2,120.0,Miguel,Belo Horizonte,MG,240.0
+19,2024-02-04,Camisa,Moda,2,50.0,Diogo,Campinas,SP,100.0
+20,2024-03-16,Tênis,Esporte,1,300.0,Emanuella,Rio de Janeiro,RJ,300.0
+21,2024-04-01,Boné,Acessórios,1,40.0,Sabrina,São Paulo,SP,40.0
+22,2024-01-14,Tênis,Esporte,2,300.0,Maysa,Santos,SP,600.0
+23,2024-02-01,Relógio,Acessórios,3,600.0,Vitor Gabriel,Londrina,PR,1800.0
+24,2024-04-07,Boné,Acessórios,3,40.0,Ana Lívia,Londrina,PR,120.0
+25,2024-02-03,Boné,Acessórios,4,40.0,Maria Fernanda,Maringá,PR,160.0
+26,2024-04-07,Meia,Moda,1,15.0,Emilly,Niterói,RJ,15.0
+27,2024-04-10,Shorts,Esporte,3,80.0,Gustavo,Santos,SP,240.0
+28,2024-03-01,Jaqueta,Moda,1,250.0,Mariana,Campinas,SP,250.0
+29,2024-04-02,Meia,Moda,1,15.0,Luiz Fernando,Caxias do Sul,RS,15.0
+30,2024-02-14,Boné,Acessórios,4,40.0,Leonardo,Pelotas,RS,160.0
+31,2024-01-23,Camisa,Moda,1,50.0,Alice,Juiz de Fora,MG,50.0
+32,2024-01-22,Meia,Moda,1,15.0,Maria Julia,Caxias do Sul,RS,15.0
+33,2024-03-17,Camisa,Moda,5,50.0,Ana Julia,Pelotas,RS,250.0
+34,2024-03-31,Calça,Moda,4,120.0,Juan,São Paulo,SP,480.0
+35,2024-04-09,Shorts,Esporte,1,80.0,Ana Julia,Juiz de Fora,MG,80.0
+36,2024-04-02,Boné,Acessórios,4,40.0,João Vitor,Uberlândia,MG,160.0
+37,2024-02-18,Relógio,Acessórios,3,600.0,Luiz Henrique,Petrópolis,RJ,1800.0
+38,2024-02-28,Jaqueta,Moda,3,250.0,Daniel,Curitiba,PR,750.0
+39,2024-02-05,Calça,Moda,5,120.0,Renan,Pelotas,RS,600.0
+40,2024-02-14,Shorts,Esporte,1,80.0,Brenda,Maringá,PR,80.0
+41,2024-01-01,Calça,Moda,3,120.0,Clara,Maringá,PR,360.0
+42,2024-03-22,Calça,Moda,3,120.0,Kevin,Londrina,PR,360.0
+43,2024-03-31,Relógio,Acessórios,2,600.0,Isabella,Porto Alegre,RS,1200.0
+44,2024-02-05,Camisa,Moda,2,50.0,Gustavo Henrique,Campinas,SP,100.0
+45,2024-01-14,Tênis,Esporte,3,300.0,Brenda,Maringá,PR,900.0
+46,2024-04-02,Calça,Moda,3,120.0,Caio,Maringá,PR,360.0
+47,2024-03-09,Relógio,Acessórios,3,600.0,Enrico,Curitiba,PR,1800.0
+48,2024-03-15,Calça,Moda,3,120.0,Olivia,Juiz de Fora,MG,360.0
+49,2024-02-25,Meia,Moda,4,15.0,Murilo,Pelotas,RS,60.0
+50,2024-03-24,Shorts,Esporte,1,80.0,Gabrielly,Juiz de Fora,MG,80.0
+51,2024-03-08,Boné,Acessórios,5,40.0,Bruna,Porto Alegre,RS,200.0
+52,2024-01-18,Tênis,Esporte,4,300.0,João Pedro,Caxias do Sul,RS,1200.0
+53,2024-02-09,Jaqueta,Moda,1,250.0,Matheus,Santos,SP,250.0
+54,2024-02-29,Jaqueta,Moda,1,250.0,Ana Luiza,Santos,SP,250.0
+55,2024-02-17,Boné,Acessórios,4,40.0,Marcos Vinicius,Maringá,PR,160.0
+56,2024-01-27,Relógio,Acessórios,5,600.0,Guilherme,Curitiba,PR,3000.0
+57,2024-03-08,Camisa,Moda,3,50.0,Luiz Felipe,Campinas,SP,150.0
+58,2024-01-11,Tênis,Esporte,3,300.0,Sarah,Rio de Janeiro,RJ,900.0
+59,2024-02-08,Relógio,Acessórios,4,600.0,Ana Julia,Niterói,RJ,2400.0
+60,2024-04-07,Relógio,Acessórios,3,600.0,Stella,Londrina,PR,1800.0
+61,2024-02-28,Tênis,Esporte,5,300.0,Heitor,Londrina,PR,1500.0
+62,2024-01-16,Boné,Acessórios,4,40.0,Kamilly,Uberlândia,MG,160.0
+63,2024-03-08,Boné,Acessórios,5,40.0,Maria Julia,Niterói,RJ,200.0
+64,2024-03-08,Meia,Moda,3,15.0,Theo,Rio de Janeiro,RJ,45.0
+65,2024-01-01,Shorts,Esporte,4,80.0,Sophia,São Paulo,SP,320.0
+66,2024-04-01,Boné,Acessórios,5,40.0,Ian,Curitiba,PR,200.0
+67,2024-03-03,Tênis,Esporte,4,300.0,Maria,Juiz de Fora,MG,1200.0
+68,2024-02-01,Relógio,Acessórios,4,600.0,Gabriela,Campinas,SP,2400.0
+69,2024-02-11,Shorts,Esporte,1,80.0,Vitor Hugo,Maringá,PR,80.0
+70,2024-03-01,Shorts,Esporte,4,80.0,Caio,Campinas,SP,320.0
+71,2024-03-13,Tênis,Esporte,5,300.0,Davi,Pelotas,RS,1500.0
+72,2024-04-06,Tênis,Esporte,2,300.0,Cecília,Campinas,SP,600.0
+73,2024-02-10,Relógio,Acessórios,3,600.0,Ana,Pelotas,RS,1800.0
+74,2024-01-27,Meia,Moda,3,15.0,Raul,Pelotas,RS,45.0
+75,2024-02-16,Meia,Moda,5,15.0,Ana,Santos,SP,75.0
+76,2024-01-08,Relógio,Acessórios,1,600.0,Esther,Londrina,PR,600.0
+77,2024-03-27,Calça,Moda,1,120.0,Diogo,Juiz de Fora,MG,120.0
+78,2024-01-02,Boné,Acessórios,5,40.0,Larissa,Niterói,RJ,200.0
+79,2024-02-18,Meia,Moda,2,15.0,Yuri,Belo Horizonte,MG,30.0
+80,2024-03-15,Shorts,Esporte,3,80.0,Júlia,Niterói,RJ,240.0
+81,2024-03-17,Tênis,Esporte,3,300.0,Bruna,Pelotas,RS,900.0
+82,2024-03-24,Camisa,Moda,2,50.0,Maria Julia,Belo Horizonte,MG,100.0
+83,2024-01-05,Jaqueta,Moda,2,250.0,Emanuel,Belo Horizonte,MG,500.0
+84,2024-02-22,Meia,Moda,3,15.0,Eduarda,Caxias do Sul,RS,45.0
+85,2024-02-14,Camisa,Moda,5,50.0,Alexia,Juiz de Fora,MG,250.0
+86,2024-02-13,Calça,Moda,3,120.0,Miguel,Belo Horizonte,MG,360.0
+87,2024-01-17,Calça,Moda,4,120.0,Cauã,São Paulo,SP,480.0
+88,2024-02-03,Boné,Acessórios,5,40.0,Noah,Rio de Janeiro,RJ,200.0
+89,2024-01-22,Relógio,Acessórios,4,600.0,Lorena,Santos,SP,2400.0
+90,2024-03-14,Meia,Moda,3,15.0,Emanuella,Maringá,PR,45.0
+91,2024-01-30,Tênis,Esporte,2,300.0,Rodrigo,Niterói,RJ,600.0
+92,2024-03-23,Meia,Moda,4,15.0,Melissa,Maringá,PR,60.0
+93,2024-01-22,Meia,Moda,1,15.0,Breno,Belo Horizonte,MG,15.0
+94,2024-04-01,Boné,Acessórios,4,40.0,Ana Luiza,Curitiba,PR,160.0
+95,2024-04-06,Tênis,Esporte,1,300.0,Esther,Maringá,PR,300.0
+96,2024-01-14,Calça,Moda,1,120.0,Kaique,São Paulo,SP,120.0
+97,2024-02-03,Jaqueta,Moda,4,250.0,Maysa,Niterói,RJ,1000.0
+98,2024-04-06,Jaqueta,Moda,3,250.0,Lucas,Niterói,RJ,750.0
+99,2024-02-02,Relógio,Acessórios,4,600.0,Daniela,Caxias do Sul,RS,2400.0
+100,2024-01-21,Boné,Acessórios,3,40.0,Marcela,Porto Alegre,RS,120.0
+101,2024-04-07,Tênis,Esporte,4,300.0,Maria Sophia,São Paulo,SP,1200.0
+102,2024-04-05,Tênis,Esporte,2,300.0,Marina,Belo Horizonte,MG,600.0
+103,2024-01-03,Relógio,Acessórios,4,600.0,Sophia,Juiz de Fora,MG,2400.0
+104,2024-04-04,Tênis,Esporte,4,300.0,Benício,Uberlândia,MG,1200.0
+105,2024-04-09,Relógio,Acessórios,4,600.0,Sophie,Santos,SP,2400.0
+106,2024-01-30,Jaqueta,Moda,1,250.0,Clara,São Paulo,SP,250.0
+107,2024-04-05,Meia,Moda,1,15.0,Matheus,Santos,SP,15.0
+108,2024-02-11,Meia,Moda,2,15.0,Pedro,Caxias do Sul,RS,30.0
+109,2024-02-02,Jaqueta,Moda,3,250.0,Breno,Porto Alegre,RS,750.0
+110,2024-02-09,Relógio,Acessórios,3,600.0,Esther,Curitiba,PR,1800.0
+111,2024-02-09,Calça,Moda,2,120.0,Bruna,Niterói,RJ,240.0
+112,2024-02-13,Relógio,Acessórios,1,600.0,Yuri,Santos,SP,600.0
+113,2024-02-10,Shorts,Esporte,5,80.0,Francisco,Rio de Janeiro,RJ,400.0
+114,2024-01-10,Meia,Moda,5,15.0,Leonardo,Curitiba,PR,75.0
+115,2024-03-21,Boné,Acessórios,2,40.0,Nathan,Uberlândia,MG,80.0
+116,2024-03-01,Calça,Moda,5,120.0,Lívia,São Paulo,SP,600.0
+117,2024-01-26,Relógio,Acessórios,5,600.0,Amanda,Uberlândia,MG,3000.0
+118,2024-02-02,Calça,Moda,1,120.0,Leandro,Pelotas,RS,120.0
+119,2024-03-25,Calça,Moda,1,120.0,Rebeca,Belo Horizonte,MG,120.0
+120,2024-01-03,Tênis,Esporte,3,300.0,Vicente,São Paulo,SP,900.0
+121,2024-03-01,Shorts,Esporte,5,80.0,Larissa,São Paulo,SP,400.0
+122,2024-03-02,Camisa,Moda,1,50.0,Luiz Fernando,Maringá,PR,50.0
+123,2024-01-09,Meia,Moda,1,15.0,Ana Laura,Maringá,PR,15.0
+124,2024-02-16,Shorts,Esporte,1,80.0,Vicente,Curitiba,PR,80.0
+125,2024-02-15,Calça,Moda,1,120.0,Alexandre,Porto Alegre,RS,120.0
+126,2024-02-05,Boné,Acessórios,1,40.0,Isabel,Campinas,SP,40.0
+127,2024-02-28,Shorts,Esporte,5,80.0,Kevin,Belo Horizonte,MG,400.0
+128,2024-03-26,Shorts,Esporte,4,80.0,Natália,Rio de Janeiro,RJ,320.0
+129,2024-02-10,Jaqueta,Moda,2,250.0,Maria Alice,Campinas,SP,500.0
+130,2024-02-08,Camisa,Moda,1,50.0,Vicente,Campinas,SP,50.0
+131,2024-04-04,Camisa,Moda,3,50.0,Melissa,Juiz de Fora,MG,150.0
+132,2024-03-02,Camisa,Moda,1,50.0,Maria Vitória,Santos,SP,50.0
+133,2024-01-30,Camisa,Moda,3,50.0,Daniel,Pelotas,RS,150.0
+134,2024-01-17,Camisa,Moda,5,50.0,Davi Lucas,Campinas,SP,250.0
+135,2024-01-29,Jaqueta,Moda,5,250.0,Sophie,Maringá,PR,1250.0
+136,2024-03-08,Shorts,Esporte,5,80.0,Nina,Rio de Janeiro,RJ,400.0
+137,2024-03-15,Camisa,Moda,5,50.0,Elisa,Petrópolis,RJ,250.0
+138,2024-03-29,Relógio,Acessórios,4,600.0,Davi Lucas,Juiz de Fora,MG,2400.0
+139,2024-01-03,Calça,Moda,4,120.0,Sofia,Londrina,PR,480.0
+140,2024-01-28,Shorts,Esporte,5,80.0,Alícia,Caxias do Sul,RS,400.0
+141,2024-03-04,Jaqueta,Moda,3,250.0,Enzo Gabriel,Londrina,PR,750.0
+142,2024-03-20,Camisa,Moda,1,50.0,Ana Lívia,Santos,SP,50.0
+143,2024-04-03,Calça,Moda,4,120.0,Yasmin,Campinas,SP,480.0
+144,2024-02-13,Boné,Acessórios,4,40.0,Ana Clara,Niterói,RJ,160.0
+145,2024-04-04,Meia,Moda,1,15.0,Luiz Henrique,Maringá,PR,15.0
+146,2024-03-16,Calça,Moda,2,120.0,Stella,Petrópolis,RJ,240.0
+147,2024-01-14,Tênis,Esporte,4,300.0,Ana Lívia,Niterói,RJ,1200.0
+148,2024-02-07,Tênis,Esporte,3,300.0,Vitor,Juiz de Fora,MG,900.0
+149,2024-01-06,Tênis,Esporte,1,300.0,Guilherme,Uberlândia,MG,300.0
+150,2024-03-11,Jaqueta,Moda,4,250.0,Daniel,Uberlândia,MG,1000.0
+151,2024-01-10,Tênis,Esporte,5,300.0,João Pedro,Uberlândia,MG,1500.0
+152,2024-02-25,Calça,Moda,2,120.0,João Pedro,São Paulo,SP,240.0
+153,2024-01-18,Calça,Moda,3,120.0,Rafaela,Niterói,RJ,360.0
+154,2024-02-27,Jaqueta,Moda,5,250.0,João Vitor,Curitiba,PR,1250.0
+155,2024-01-27,Meia,Moda,5,15.0,Lavínia,Pelotas,RS,75.0
+156,2024-01-23,Relógio,Acessórios,2,600.0,Marcelo,Porto Alegre,RS,1200.0
+157,2024-04-06,Calça,Moda,2,120.0,Marcos Vinicius,Pelotas,RS,240.0
+158,2024-03-20,Camisa,Moda,2,50.0,Sarah,Porto Alegre,RS,100.0
+159,2024-04-02,Meia,Moda,3,15.0,Nathan,Campinas,SP,45.0
+160,2024-03-17,Camisa,Moda,3,50.0,Pedro Miguel,Rio de Janeiro,RJ,150.0
+161,2024-03-11,Camisa,Moda,1,50.0,Benício,Rio de Janeiro,RJ,50.0
+162,2024-04-10,Tênis,Esporte,2,300.0,Emanuella,Santos,SP,600.0
+163,2024-03-23,Boné,Acessórios,3,40.0,Ana Carolina,Juiz de Fora,MG,120.0
+164,2024-03-14,Meia,Moda,4,15.0,Emanuelly,Santos,SP,60.0
+165,2024-02-17,Meia,Moda,4,15.0,Ana Lívia,Pelotas,RS,60.0
+166,2024-03-17,Shorts,Esporte,5,80.0,Ana Clara,Londrina,PR,400.0
+167,2024-03-03,Tênis,Esporte,2,300.0,Bruna,Rio de Janeiro,RJ,600.0
+168,2024-02-09,Meia,Moda,1,15.0,Rodrigo,Caxias do Sul,RS,15.0
+169,2024-01-09,Meia,Moda,1,15.0,Sabrina,Pelotas,RS,15.0
+170,2024-03-17,Relógio,Acessórios,3,600.0,Maria Luiza,Campinas,SP,1800.0
+171,2024-02-15,Calça,Moda,4,120.0,Brenda,Campinas,SP,480.0
+172,2024-01-21,Tênis,Esporte,3,300.0,João,Santos,SP,900.0
+173,2024-03-22,Relógio,Acessórios,1,600.0,Natália,Londrina,PR,600.0
+174,2024-04-10,Jaqueta,Moda,1,250.0,Alana,Juiz de Fora,MG,250.0
+175,2024-03-26,Relógio,Acessórios,2,600.0,Augusto,Porto Alegre,RS,1200.0
+176,2024-03-25,Jaqueta,Moda,5,250.0,Laís,Porto Alegre,RS,1250.0
+177,2024-03-23,Jaqueta,Moda,3,250.0,Luana,Petrópolis,RJ,750.0
+178,2024-02-17,Camisa,Moda,4,50.0,Rafael,Santos,SP,200.0
+179,2024-03-17,Shorts,Esporte,1,80.0,João Pedro,Petrópolis,RJ,80.0
+180,2024-03-19,Calça,Moda,4,120.0,Mariane,Santos,SP,480.0
+181,2024-03-22,Tênis,Esporte,5,300.0,Gabrielly,Niterói,RJ,1500.0
+182,2024-04-01,Shorts,Esporte,4,80.0,Igor,Belo Horizonte,MG,320.0
+183,2024-03-20,Camisa,Moda,4,50.0,Isis,Caxias do Sul,RS,200.0
+184,2024-01-07,Tênis,Esporte,1,300.0,Maria Fernanda,Rio de Janeiro,RJ,300.0
+185,2024-03-12,Tênis,Esporte,4,300.0,Murilo,Porto Alegre,RS,1200.0
+186,2024-04-07,Tênis,Esporte,1,300.0,Ana Sophia,Porto Alegre,RS,300.0
+187,2024-04-10,Shorts,Esporte,5,80.0,Eduardo,Belo Horizonte,MG,400.0
+188,2024-01-04,Calça,Moda,3,120.0,Maysa,Juiz de Fora,MG,360.0
+189,2024-01-03,Boné,Acessórios,5,40.0,Yuri,Belo Horizonte,MG,200.0
+190,2024-03-12,Boné,Acessórios,2,40.0,Miguel,Caxias do Sul,RS,80.0
+191,2024-04-10,Calça,Moda,1,120.0,Lorena,Pelotas,RS,120.0
+192,2024-01-01,Relógio,Acessórios,2,600.0,Gabriela,Belo Horizonte,MG,1200.0
+193,2024-03-30,Tênis,Esporte,5,300.0,Igor,Rio de Janeiro,RJ,1500.0
+194,2024-02-12,Meia,Moda,3,15.0,Nicole,Rio de Janeiro,RJ,45.0
+195,2024-01-26,Boné,Acessórios,3,40.0,Cecília,Niterói,RJ,120.0
+196,2024-02-14,Calça,Moda,1,120.0,Pedro Henrique,Santos,SP,120.0
+197,2024-03-28,Meia,Moda,4,15.0,Vitória,Petrópolis,RJ,60.0
+198,2024-01-29,Relógio,Acessórios,3,600.0,Raul,Caxias do Sul,RS,1800.0
+199,2024-02-20,Calça,Moda,2,120.0,Helena,Santos,SP,240.0
+200,2024-02-04,Camisa,Moda,5,50.0,Diego,Porto Alegre,RS,250.0
+201,2024-01-19,Jaqueta,Moda,2,250.0,Fernando,Belo Horizonte,MG,500.0
+202,2024-02-28,Tênis,Esporte,1,300.0,Heloísa,Rio de Janeiro,RJ,300.0
+203,2024-03-05,Meia,Moda,1,15.0,Ana Clara,Petrópolis,RJ,15.0
+204,2024-04-04,Boné,Acessórios,2,40.0,Marina,São Paulo,SP,80.0
+205,2024-02-28,Shorts,Esporte,4,80.0,Maria Eduarda,Pelotas,RS,320.0
+206,2024-03-11,Shorts,Esporte,3,80.0,Davi Luiz,Uberlândia,MG,240.0
+207,2024-02-29,Jaqueta,Moda,2,250.0,Ana Luiza,Maringá,PR,500.0
+208,2024-02-19,Tênis,Esporte,3,300.0,Bryan,Londrina,PR,900.0
+209,2024-02-03,Boné,Acessórios,4,40.0,Francisco,Maringá,PR,160.0
+210,2024-03-05,Meia,Moda,1,15.0,João Miguel,Juiz de Fora,MG,15.0
+211,2024-03-05,Shorts,Esporte,1,80.0,Caio,Rio de Janeiro,RJ,80.0
+212,2024-04-08,Shorts,Esporte,2,80.0,Rodrigo,Caxias do Sul,RS,160.0
+213,2024-03-20,Calça,Moda,4,120.0,Milena,Curitiba,PR,480.0
+214,2024-03-28,Boné,Acessórios,1,40.0,Thiago,Curitiba,PR,40.0
+215,2024-03-18,Shorts,Esporte,2,80.0,Maria,Pelotas,RS,160.0
+216,2024-04-09,Jaqueta,Moda,3,250.0,João Lucas,Porto Alegre,RS,750.0
+217,2024-02-12,Shorts,Esporte,3,80.0,João,Maringá,PR,240.0
+218,2024-03-21,Camisa,Moda,4,50.0,Sofia,Curitiba,PR,200.0
+219,2024-02-17,Jaqueta,Moda,4,250.0,Samuel,Caxias do Sul,RS,1000.0
+220,2024-01-22,Tênis,Esporte,5,300.0,Ana Júlia,Londrina,PR,1500.0
+221,2024-04-03,Jaqueta,Moda,1,250.0,Emilly,Curitiba,PR,250.0
+222,2024-04-09,Shorts,Esporte,3,80.0,Yasmin,Petrópolis,RJ,240.0
+223,2024-03-29,Calça,Moda,1,120.0,Lucas Gabriel,Juiz de Fora,MG,120.0
+224,2024-03-25,Tênis,Esporte,2,300.0,Gabriel,Rio de Janeiro,RJ,600.0
+225,2024-01-01,Jaqueta,Moda,2,250.0,Rodrigo,Belo Horizonte,MG,500.0
+226,2024-02-09,Tênis,Esporte,4,300.0,Yasmin,Campinas,SP,1200.0
+227,2024-03-25,Boné,Acessórios,1,40.0,Sarah,Curitiba,PR,40.0
+228,2024-01-08,Calça,Moda,5,120.0,Lucas,Maringá,PR,600.0
+229,2024-03-22,Shorts,Esporte,4,80.0,Luiz Felipe,Belo Horizonte,MG,320.0
+230,2024-03-14,Jaqueta,Moda,5,250.0,João Felipe,Londrina,PR,1250.0
+231,2024-03-01,Tênis,Esporte,3,300.0,Lucas Gabriel,São Paulo,SP,900.0
+232,2024-01-05,Boné,Acessórios,1,40.0,Lucca,Juiz de Fora,MG,40.0
+233,2024-01-26,Calça,Moda,3,120.0,Emanuel,Curitiba,PR,360.0
+234,2024-03-13,Tênis,Esporte,3,300.0,Theo,Rio de Janeiro,RJ,900.0
+235,2024-02-25,Camisa,Moda,2,50.0,Maitê,Londrina,PR,100.0
+236,2024-04-03,Relógio,Acessórios,3,600.0,Otávio,Pelotas,RS,1800.0
+237,2024-02-02,Meia,Moda,2,15.0,Luigi,Caxias do Sul,RS,30.0
+238,2024-01-15,Camisa,Moda,3,50.0,Juan,Pelotas,RS,150.0
+239,2024-01-12,Tênis,Esporte,5,300.0,Luana,Rio de Janeiro,RJ,1500.0
+240,2024-03-30,Camisa,Moda,5,50.0,Leandro,Santos,SP,250.0
+241,2024-03-22,Calça,Moda,2,120.0,Cauê,Uberlândia,MG,240.0
+242,2024-01-31,Calça,Moda,3,120.0,Diogo,Santos,SP,360.0
+243,2024-01-24,Tênis,Esporte,1,300.0,Eloah,Caxias do Sul,RS,300.0
+244,2024-02-21,Tênis,Esporte,2,300.0,Kamilly,Santos,SP,600.0
+245,2024-03-22,Relógio,Acessórios,5,600.0,Davi Lucas,Belo Horizonte,MG,3000.0
+246,2024-01-03,Camisa,Moda,3,50.0,Heloísa,Campinas,SP,150.0
+247,2024-03-30,Calça,Moda,3,120.0,Benjamin,Belo Horizonte,MG,360.0
+248,2024-03-09,Boné,Acessórios,3,40.0,Natália,Caxias do Sul,RS,120.0
+249,2024-02-14,Boné,Acessórios,3,40.0,Maria Luiza,Pelotas,RS,120.0
+250,2024-01-11,Calça,Moda,4,120.0,Mirella,Pelotas,RS,480.0
+251,2024-02-09,Camisa,Moda,2,50.0,Isabella,Maringá,PR,100.0
+252,2024-02-13,Boné,Acessórios,1,40.0,Laís,Niterói,RJ,40.0
+253,2024-02-09,Relógio,Acessórios,1,600.0,Enzo,Niterói,RJ,600.0
+254,2024-01-26,Camisa,Moda,3,50.0,Alice,Porto Alegre,RS,150.0
+255,2024-01-24,Relógio,Acessórios,2,600.0,Luiz Miguel,Niterói,RJ,1200.0
+256,2024-01-30,Calça,Moda,5,120.0,Beatriz,Pelotas,RS,600.0
+257,2024-01-24,Jaqueta,Moda,1,250.0,Enrico,Rio de Janeiro,RJ,250.0
+258,2024-04-04,Shorts,Esporte,3,80.0,Juliana,Curitiba,PR,240.0
+259,2024-03-10,Relógio,Acessórios,2,600.0,Eduarda,Juiz de Fora,MG,1200.0
+260,2024-01-11,Camisa,Moda,4,50.0,Rafael,Petrópolis,RJ,200.0
+261,2024-03-11,Calça,Moda,1,120.0,Rafaela,Uberlândia,MG,120.0
+262,2024-04-07,Shorts,Esporte,4,80.0,Vitor Hugo,Londrina,PR,320.0
+263,2024-02-15,Tênis,Esporte,2,300.0,Agatha,Campinas,SP,600.0
+264,2024-01-30,Calça,Moda,4,120.0,Alícia,Niterói,RJ,480.0
+265,2024-03-01,Boné,Acessórios,5,40.0,Cauê,Caxias do Sul,RS,200.0
+266,2024-02-12,Relógio,Acessórios,4,600.0,Luiz Fernando,Campinas,SP,2400.0
+267,2024-03-26,Boné,Acessórios,1,40.0,Luana,São Paulo,SP,40.0
+268,2024-01-29,Jaqueta,Moda,3,250.0,Alice,Santos,SP,750.0
+269,2024-03-27,Shorts,Esporte,3,80.0,Luiz Henrique,Maringá,PR,240.0
+270,2024-02-05,Tênis,Esporte,4,300.0,Milena,Santos,SP,1200.0
+271,2024-04-06,Boné,Acessórios,3,40.0,Ana Júlia,Belo Horizonte,MG,120.0
+272,2024-04-02,Tênis,Esporte,4,300.0,Ryan,Rio de Janeiro,RJ,1200.0
+273,2024-01-09,Tênis,Esporte,4,300.0,Elisa,Pelotas,RS,1200.0
+274,2024-02-10,Relógio,Acessórios,1,600.0,Gustavo Henrique,Juiz de Fora,MG,600.0
+275,2024-02-13,Calça,Moda,5,120.0,Kevin,Curitiba,PR,600.0
+276,2024-02-29,Relógio,Acessórios,2,600.0,Cauê,Londrina,PR,1200.0
+277,2024-01-12,Shorts,Esporte,5,80.0,Juliana,Campinas,SP,400.0
+278,2024-01-14,Calça,Moda,2,120.0,Bernardo,Niterói,RJ,240.0
+279,2024-02-20,Shorts,Esporte,2,80.0,Emanuel,Campinas,SP,160.0
+280,2024-04-09,Camisa,Moda,3,50.0,Julia,Pelotas,RS,150.0
+281,2024-01-08,Tênis,Esporte,4,300.0,Pedro Lucas,Juiz de Fora,MG,1200.0
+282,2024-04-01,Boné,Acessórios,5,40.0,Pietro,Belo Horizonte,MG,200.0
+283,2024-03-31,Relógio,Acessórios,3,600.0,Augusto,Santos,SP,1800.0
+284,2024-04-01,Relógio,Acessórios,5,600.0,Maria Cecília,São Paulo,SP,3000.0
+285,2024-03-19,Calça,Moda,2,120.0,Luiza,Belo Horizonte,MG,240.0
+286,2024-02-29,Tênis,Esporte,4,300.0,Ana Clara,São Paulo,SP,1200.0
+287,2024-04-04,Meia,Moda,3,15.0,Mariana,Porto Alegre,RS,45.0
+288,2024-02-12,Jaqueta,Moda,4,250.0,Francisco,Belo Horizonte,MG,1000.0
+289,2024-04-03,Meia,Moda,3,15.0,Gabriela,Santos,SP,45.0
+290,2024-01-13,Tênis,Esporte,5,300.0,Eloah,Uberlândia,MG,1500.0
+291,2024-03-12,Tênis,Esporte,5,300.0,João Guilherme,Curitiba,PR,1500.0
+292,2024-02-24,Jaqueta,Moda,3,250.0,Eloah,Rio de Janeiro,RJ,750.0
+293,2024-03-31,Jaqueta,Moda,3,250.0,João Miguel,Rio de Janeiro,RJ,750.0
+294,2024-02-04,Camisa,Moda,3,50.0,Sabrina,Rio de Janeiro,RJ,150.0
+295,2024-02-18,Shorts,Esporte,1,80.0,Alice,Caxias do Sul,RS,80.0
+296,2024-03-20,Jaqueta,Moda,5,250.0,Leonardo,São Paulo,SP,1250.0
+297,2024-03-03,Calça,Moda,3,120.0,Gustavo Henrique,Belo Horizonte,MG,360.0
+298,2024-02-07,Calça,Moda,1,120.0,Eloah,Curitiba,PR,120.0
+299,2024-02-25,Camisa,Moda,2,50.0,Isabella,Santos,SP,100.0
+300,2024-01-12,Calça,Moda,2,120.0,Bruna,Santos,SP,240.0
+301,2024-04-05,Meia,Moda,1,15.0,Igor,São Paulo,SP,15.0
+302,2024-03-26,Jaqueta,Moda,1,250.0,Luiz Gustavo,Caxias do Sul,RS,250.0
+303,2024-04-06,Boné,Acessórios,5,40.0,Thales,Belo Horizonte,MG,200.0
+304,2024-01-05,Boné,Acessórios,4,40.0,Ana Beatriz,Petrópolis,RJ,160.0
+305,2024-01-30,Meia,Moda,4,15.0,Ana Luiza,Niterói,RJ,60.0
+306,2024-01-29,Jaqueta,Moda,3,250.0,Melissa,Belo Horizonte,MG,750.0
+307,2024-03-12,Jaqueta,Moda,4,250.0,Vitor,Campinas,SP,1000.0
+308,2024-03-22,Shorts,Esporte,3,80.0,Nicolas,Porto Alegre,RS,240.0
+309,2024-01-27,Boné,Acessórios,3,40.0,Levi,Curitiba,PR,120.0
+310,2024-04-04,Boné,Acessórios,3,40.0,Pedro,Curitiba,PR,120.0
+311,2024-02-09,Calça,Moda,3,120.0,Davi Lucca,São Paulo,SP,360.0
+312,2024-02-14,Relógio,Acessórios,5,600.0,Kamilly,São Paulo,SP,3000.0
+313,2024-03-05,Relógio,Acessórios,1,600.0,Maria Cecília,Londrina,PR,600.0
+314,2024-03-29,Calça,Moda,1,120.0,Alexandre,Rio de Janeiro,RJ,120.0
+315,2024-01-11,Boné,Acessórios,3,40.0,Isabelly,Caxias do Sul,RS,120.0
+316,2024-02-16,Relógio,Acessórios,2,600.0,Raul,Maringá,PR,1200.0
+317,2024-03-07,Jaqueta,Moda,3,250.0,Enzo,Uberlândia,MG,750.0
+318,2024-02-10,Tênis,Esporte,2,300.0,Davi,Santos,SP,600.0
+319,2024-02-04,Calça,Moda,1,120.0,Isadora,Londrina,PR,120.0
+320,2024-02-21,Calça,Moda,1,120.0,Sofia,Londrina,PR,120.0
+321,2024-03-25,Camisa,Moda,5,50.0,Maria Eduarda,Juiz de Fora,MG,250.0
+322,2024-01-04,Calça,Moda,1,120.0,Maria Eduarda,Santos,SP,120.0
+323,2024-01-06,Camisa,Moda,1,50.0,Sophia,Uberlândia,MG,50.0
+324,2024-01-23,Jaqueta,Moda,1,250.0,Maria Cecília,Uberlândia,MG,250.0
+325,2024-02-28,Meia,Moda,3,15.0,Isis,Niterói,RJ,45.0
+326,2024-03-18,Calça,Moda,2,120.0,Bryan,Belo Horizonte,MG,240.0
+327,2024-01-14,Tênis,Esporte,1,300.0,Brenda,Belo Horizonte,MG,300.0
+328,2024-04-01,Relógio,Acessórios,3,600.0,João Felipe,Uberlândia,MG,1800.0
+329,2024-03-23,Relógio,Acessórios,5,600.0,Eloah,Caxias do Sul,RS,3000.0
+330,2024-03-20,Jaqueta,Moda,5,250.0,Gabriela,Pelotas,RS,1250.0
+331,2024-02-20,Jaqueta,Moda,1,250.0,Davi Luiz,Juiz de Fora,MG,250.0
+332,2024-01-11,Meia,Moda,5,15.0,Igor,Belo Horizonte,MG,75.0
+333,2024-02-06,Meia,Moda,4,15.0,Antônio,São Paulo,SP,60.0
+334,2024-01-23,Tênis,Esporte,2,300.0,Danilo,Campinas,SP,600.0
+335,2024-01-31,Shorts,Esporte,5,80.0,Diogo,Rio de Janeiro,RJ,400.0
+336,2024-02-24,Tênis,Esporte,3,300.0,Carolina,Londrina,PR,900.0
+337,2024-03-29,Camisa,Moda,3,50.0,Davi Lucas,Rio de Janeiro,RJ,150.0
+338,2024-01-10,Shorts,Esporte,3,80.0,Luana,Pelotas,RS,240.0
+339,2024-01-12,Jaqueta,Moda,5,250.0,Isadora,Uberlândia,MG,1250.0
+340,2024-03-24,Boné,Acessórios,5,40.0,João Lucas,Caxias do Sul,RS,200.0
+341,2024-01-24,Tênis,Esporte,1,300.0,Heloísa,São Paulo,SP,300.0
+342,2024-03-13,Camisa,Moda,5,50.0,Mariane,Campinas,SP,250.0
+343,2024-02-10,Tênis,Esporte,5,300.0,Noah,Porto Alegre,RS,1500.0
+344,2024-01-16,Camisa,Moda,2,50.0,Raquel,Petrópolis,RJ,100.0
+345,2024-01-27,Shorts,Esporte,3,80.0,João,Maringá,PR,240.0
+346,2024-02-21,Boné,Acessórios,1,40.0,Alice,Uberlândia,MG,40.0
+347,2024-02-02,Shorts,Esporte,1,80.0,Cecília,Porto Alegre,RS,80.0
+348,2024-03-11,Camisa,Moda,2,50.0,Arthur,Juiz de Fora,MG,100.0
+349,2024-02-08,Boné,Acessórios,5,40.0,Larissa,Londrina,PR,200.0
+350,2024-03-11,Camisa,Moda,5,50.0,Alexia,Uberlândia,MG,250.0
+351,2024-01-05,Shorts,Esporte,2,80.0,Julia,Belo Horizonte,MG,160.0
+352,2024-01-08,Camisa,Moda,4,50.0,Lívia,Uberlândia,MG,200.0
+353,2024-01-01,Relógio,Acessórios,1,600.0,Camila,Porto Alegre,RS,600.0
+354,2024-03-16,Shorts,Esporte,3,80.0,Heloísa,Juiz de Fora,MG,240.0
+355,2024-01-20,Calça,Moda,1,120.0,Maria Alice,Santos,SP,120.0
+356,2024-03-10,Camisa,Moda,4,50.0,Maria Fernanda,Pelotas,RS,200.0
+357,2024-03-11,Relógio,Acessórios,3,600.0,Agatha,Caxias do Sul,RS,1800.0
+358,2024-03-22,Relógio,Acessórios,3,600.0,Enzo Gabriel,Campinas,SP,1800.0
+359,2024-01-06,Relógio,Acessórios,3,600.0,Isis,Caxias do Sul,RS,1800.0
+360,2024-02-19,Calça,Moda,3,120.0,João,Campinas,SP,360.0
+361,2024-03-24,Camisa,Moda,2,50.0,Levi,Juiz de Fora,MG,100.0
+362,2024-02-25,Calça,Moda,3,120.0,Pedro Lucas,Belo Horizonte,MG,360.0
+363,2024-01-22,Calça,Moda,2,120.0,Carlos Eduardo,Curitiba,PR,240.0
+364,2024-04-09,Boné,Acessórios,2,40.0,João Guilherme,Belo Horizonte,MG,80.0
+365,2024-02-28,Relógio,Acessórios,3,600.0,Catarina,Porto Alegre,RS,1800.0
+366,2024-03-30,Camisa,Moda,3,50.0,Emanuelly,Petrópolis,RJ,150.0
+367,2024-03-21,Relógio,Acessórios,1,600.0,Augusto,Porto Alegre,RS,600.0
+368,2024-01-11,Relógio,Acessórios,3,600.0,Emanuelly,Porto Alegre,RS,1800.0
+369,2024-01-14,Shorts,Esporte,1,80.0,Igor,Londrina,PR,80.0
+370,2024-03-14,Meia,Moda,5,15.0,Yasmin,Juiz de Fora,MG,75.0
+371,2024-01-31,Shorts,Esporte,5,80.0,Lucca,Niterói,RJ,400.0
+372,2024-01-22,Tênis,Esporte,1,300.0,João Miguel,Santos,SP,300.0
+373,2024-01-15,Calça,Moda,2,120.0,Maitê,Londrina,PR,240.0
+374,2024-02-18,Jaqueta,Moda,3,250.0,Esther,Niterói,RJ,750.0
+375,2024-02-25,Relógio,Acessórios,4,600.0,Amanda,Londrina,PR,2400.0
+376,2024-02-28,Jaqueta,Moda,1,250.0,Marina,Petrópolis,RJ,250.0
+377,2024-02-03,Jaqueta,Moda,4,250.0,Camila,Pelotas,RS,1000.0
+378,2024-02-23,Camisa,Moda,1,50.0,Nicolas,Belo Horizonte,MG,50.0
+379,2024-01-11,Calça,Moda,1,120.0,Igor,Pelotas,RS,120.0
+380,2024-03-01,Calça,Moda,2,120.0,Gustavo,Campinas,SP,240.0
+381,2024-02-05,Boné,Acessórios,5,40.0,Eloah,Petrópolis,RJ,200.0
+382,2024-03-01,Calça,Moda,4,120.0,Ana Julia,Londrina,PR,480.0
+383,2024-03-14,Relógio,Acessórios,4,600.0,Davi Lucca,Londrina,PR,2400.0
+384,2024-02-12,Relógio,Acessórios,4,600.0,Letícia,Santos,SP,2400.0
+385,2024-01-30,Meia,Moda,1,15.0,Luiz Otávio,Campinas,SP,15.0
+386,2024-02-01,Boné,Acessórios,3,40.0,Eloah,São Paulo,SP,120.0
+387,2024-04-05,Shorts,Esporte,5,80.0,João Lucas,Uberlândia,MG,400.0
+388,2024-03-07,Shorts,Esporte,5,80.0,Daniela,Caxias do Sul,RS,400.0
+389,2024-02-08,Calça,Moda,4,120.0,Luiz Miguel,São Paulo,SP,480.0
+390,2024-02-16,Tênis,Esporte,3,300.0,João Lucas,Belo Horizonte,MG,900.0
+391,2024-02-06,Calça,Moda,1,120.0,Davi Luiz,Uberlândia,MG,120.0
+392,2024-02-06,Shorts,Esporte,3,80.0,Caio,São Paulo,SP,240.0
+393,2024-03-25,Meia,Moda,4,15.0,Francisco,Caxias do Sul,RS,60.0
+394,2024-04-03,Shorts,Esporte,5,80.0,Isabella,Caxias do Sul,RS,400.0
+395,2024-03-25,Boné,Acessórios,3,40.0,Ana Lívia,Juiz de Fora,MG,120.0
+396,2024-04-01,Tênis,Esporte,2,300.0,Leandro,Curitiba,PR,600.0
+397,2024-03-08,Tênis,Esporte,1,300.0,Diego,Petrópolis,RJ,300.0
+398,2024-03-23,Relógio,Acessórios,1,600.0,Fernanda,Caxias do Sul,RS,600.0
+399,2024-01-26,Jaqueta,Moda,1,250.0,Kamilly,Porto Alegre,RS,250.0
+400,2024-02-17,Tênis,Esporte,1,300.0,Joaquim,Niterói,RJ,300.0
+401,2024-04-01,Camisa,Moda,3,50.0,Letícia,Caxias do Sul,RS,150.0
+402,2024-04-04,Calça,Moda,2,120.0,Pedro Lucas,Caxias do Sul,RS,240.0
+403,2024-02-10,Relógio,Acessórios,5,600.0,Ana Laura,Niterói,RJ,3000.0
+404,2024-01-06,Jaqueta,Moda,3,250.0,Luna,Caxias do Sul,RS,750.0
+405,2024-02-03,Boné,Acessórios,1,40.0,Daniel,Caxias do Sul,RS,40.0
+406,2024-02-09,Calça,Moda,4,120.0,Enrico,São Paulo,SP,480.0
+407,2024-01-02,Meia,Moda,1,15.0,Mariane,Rio de Janeiro,RJ,15.0
+408,2024-01-09,Shorts,Esporte,4,80.0,João Lucas,Rio de Janeiro,RJ,320.0
+409,2024-02-18,Jaqueta,Moda,4,250.0,Evelyn,Rio de Janeiro,RJ,1000.0
+410,2024-02-29,Jaqueta,Moda,5,250.0,Nicolas,Caxias do Sul,RS,1250.0
+411,2024-03-19,Shorts,Esporte,2,80.0,Gabriel,São Paulo,SP,160.0
+412,2024-03-02,Tênis,Esporte,1,300.0,Arthur,Porto Alegre,RS,300.0
+413,2024-03-01,Camisa,Moda,3,50.0,Isabella,Petrópolis,RJ,150.0
+414,2024-04-02,Jaqueta,Moda,1,250.0,Heloísa,São Paulo,SP,250.0
+415,2024-01-21,Jaqueta,Moda,2,250.0,Gabriela,Niterói,RJ,500.0
+416,2024-01-08,Relógio,Acessórios,4,600.0,Theo,Pelotas,RS,2400.0
+417,2024-04-06,Calça,Moda,3,120.0,Natália,Petrópolis,RJ,360.0
+418,2024-03-02,Calça,Moda,4,120.0,Eloah,Santos,SP,480.0
+419,2024-04-04,Jaqueta,Moda,5,250.0,Milena,Santos,SP,1250.0
+420,2024-01-12,Camisa,Moda,1,50.0,Alexia,Londrina,PR,50.0
+421,2024-01-12,Meia,Moda,1,15.0,Camila,Juiz de Fora,MG,15.0
+422,2024-03-02,Calça,Moda,4,120.0,Mariane,Maringá,PR,480.0
+423,2024-02-08,Meia,Moda,3,15.0,Rebeca,Petrópolis,RJ,45.0
+424,2024-02-26,Relógio,Acessórios,2,600.0,Isabel,Belo Horizonte,MG,1200.0
+425,2024-03-07,Meia,Moda,5,15.0,Felipe,Porto Alegre,RS,75.0
+426,2024-01-18,Shorts,Esporte,5,80.0,Calebe,Juiz de Fora,MG,400.0
+427,2024-03-06,Jaqueta,Moda,2,250.0,Bárbara,Pelotas,RS,500.0
+428,2024-01-18,Shorts,Esporte,5,80.0,Fernando,Petrópolis,RJ,400.0
+429,2024-01-30,Jaqueta,Moda,4,250.0,Luiza,Juiz de Fora,MG,1000.0
+430,2024-01-30,Shorts,Esporte,1,80.0,Rafaela,Rio de Janeiro,RJ,80.0
+431,2024-01-30,Shorts,Esporte,3,80.0,Vicente,Juiz de Fora,MG,240.0
+432,2024-02-19,Boné,Acessórios,5,40.0,Luiz Felipe,Petrópolis,RJ,200.0
+433,2024-04-06,Shorts,Esporte,3,80.0,Maria Julia,Caxias do Sul,RS,240.0
+434,2024-02-13,Calça,Moda,5,120.0,Pedro Miguel,Rio de Janeiro,RJ,600.0
+435,2024-03-03,Calça,Moda,4,120.0,Nicole,Belo Horizonte,MG,480.0
+436,2024-01-11,Camisa,Moda,2,50.0,Manuela,Caxias do Sul,RS,100.0
+437,2024-03-16,Tênis,Esporte,3,300.0,Luana,Porto Alegre,RS,900.0
+438,2024-03-14,Boné,Acessórios,4,40.0,Vitor,Rio de Janeiro,RJ,160.0
+439,2024-03-10,Meia,Moda,5,15.0,Ana Lívia,Curitiba,PR,75.0
+440,2024-01-05,Boné,Acessórios,4,40.0,Esther,Uberlândia,MG,160.0
+441,2024-01-17,Relógio,Acessórios,5,600.0,Otávio,Caxias do Sul,RS,3000.0
+442,2024-02-05,Shorts,Esporte,1,80.0,Samuel,Rio de Janeiro,RJ,80.0
+443,2024-03-25,Relógio,Acessórios,2,600.0,Marcelo,Pelotas,RS,1200.0
+444,2024-01-24,Boné,Acessórios,1,40.0,Diego,Londrina,PR,40.0
+445,2024-02-22,Shorts,Esporte,5,80.0,André,Curitiba,PR,400.0
+446,2024-02-07,Tênis,Esporte,1,300.0,Diogo,Pelotas,RS,300.0
+447,2024-04-07,Shorts,Esporte,1,80.0,Luiz Felipe,Pelotas,RS,80.0
+448,2024-02-16,Jaqueta,Moda,1,250.0,Eloah,Pelotas,RS,250.0
+449,2024-01-10,Boné,Acessórios,5,40.0,Daniel,Petrópolis,RJ,200.0
+450,2024-04-02,Calça,Moda,4,120.0,Gabrielly,Maringá,PR,480.0
+451,2024-03-20,Calça,Moda,1,120.0,Kamilly,Belo Horizonte,MG,120.0
+452,2024-04-03,Calça,Moda,5,120.0,Isis,São Paulo,SP,600.0
+453,2024-02-29,Meia,Moda,3,15.0,Vicente,Caxias do Sul,RS,45.0
+454,2024-02-15,Relógio,Acessórios,4,600.0,Arthur,Caxias do Sul,RS,2400.0
+455,2024-03-10,Shorts,Esporte,2,80.0,Ana Vitória,São Paulo,SP,160.0
+456,2024-01-11,Boné,Acessórios,2,40.0,Theo,Pelotas,RS,80.0
+457,2024-02-15,Shorts,Esporte,4,80.0,Heloísa,Rio de Janeiro,RJ,320.0
+458,2024-03-22,Shorts,Esporte,4,80.0,Luiz Fernando,Juiz de Fora,MG,320.0
+459,2024-04-08,Meia,Moda,3,15.0,João Felipe,Juiz de Fora,MG,45.0
+460,2024-04-04,Camisa,Moda,3,50.0,Alice,Rio de Janeiro,RJ,150.0
+461,2024-04-05,Camisa,Moda,2,50.0,Valentina,Rio de Janeiro,RJ,100.0
+462,2024-02-23,Shorts,Esporte,3,80.0,Fernanda,São Paulo,SP,240.0
+463,2024-04-03,Tênis,Esporte,3,300.0,Maria Alice,Porto Alegre,RS,900.0
+464,2024-01-02,Relógio,Acessórios,4,600.0,Natália,Londrina,PR,2400.0
+465,2024-01-04,Camisa,Moda,4,50.0,Brenda,Uberlândia,MG,200.0
+466,2024-01-31,Jaqueta,Moda,2,250.0,João Pedro,Niterói,RJ,500.0
+467,2024-02-17,Boné,Acessórios,5,40.0,Sarah,Caxias do Sul,RS,200.0
+468,2024-03-19,Camisa,Moda,2,50.0,Luiz Fernando,Porto Alegre,RS,100.0
+469,2024-01-19,Calça,Moda,3,120.0,João Lucas,Porto Alegre,RS,360.0
+470,2024-01-18,Relógio,Acessórios,3,600.0,Anthony,Petrópolis,RJ,1800.0
+471,2024-01-25,Camisa,Moda,1,50.0,Brenda,Maringá,PR,50.0
+472,2024-02-11,Jaqueta,Moda,2,250.0,Emanuella,Juiz de Fora,MG,500.0
+473,2024-01-08,Camisa,Moda,4,50.0,Murilo,Caxias do Sul,RS,200.0
+474,2024-01-24,Jaqueta,Moda,1,250.0,Isadora,Santos,SP,250.0
+475,2024-03-22,Jaqueta,Moda,5,250.0,Pedro,Pelotas,RS,1250.0
+476,2024-02-12,Meia,Moda,4,15.0,Rodrigo,Niterói,RJ,60.0
+477,2024-03-25,Boné,Acessórios,3,40.0,Benício,Belo Horizonte,MG,120.0
+478,2024-02-10,Relógio,Acessórios,2,600.0,Maysa,Londrina,PR,1200.0
+479,2024-02-08,Jaqueta,Moda,2,250.0,Theo,Caxias do Sul,RS,500.0
+480,2024-03-04,Tênis,Esporte,2,300.0,Enrico,Juiz de Fora,MG,600.0
+481,2024-02-03,Camisa,Moda,1,50.0,Nicolas,Belo Horizonte,MG,50.0
+482,2024-03-18,Boné,Acessórios,2,40.0,Benício,Petrópolis,RJ,80.0
+483,2024-04-02,Shorts,Esporte,3,80.0,João Vitor,Petrópolis,RJ,240.0
+484,2024-03-25,Meia,Moda,2,15.0,Cauã,Santos,SP,30.0
+485,2024-03-01,Tênis,Esporte,4,300.0,João Felipe,Curitiba,PR,1200.0
+486,2024-03-07,Shorts,Esporte,1,80.0,Leandro,Porto Alegre,RS,80.0
+487,2024-03-18,Camisa,Moda,3,50.0,Joaquim,Santos,SP,150.0
+488,2024-02-24,Relógio,Acessórios,3,600.0,Nina,Santos,SP,1800.0
+489,2024-01-26,Boné,Acessórios,3,40.0,Diego,Belo Horizonte,MG,120.0
+490,2024-01-14,Calça,Moda,3,120.0,Maria Clara,Caxias do Sul,RS,360.0
+491,2024-03-24,Camisa,Moda,3,50.0,Sabrina,Rio de Janeiro,RJ,150.0
+492,2024-03-14,Shorts,Esporte,1,80.0,Cecília,Petrópolis,RJ,80.0
+493,2024-02-11,Meia,Moda,4,15.0,Carlos Eduardo,Pelotas,RS,60.0
+494,2024-03-08,Relógio,Acessórios,1,600.0,João Pedro,Porto Alegre,RS,600.0
+495,2024-02-23,Calça,Moda,5,120.0,Vinicius,Pelotas,RS,600.0
+496,2024-02-12,Meia,Moda,5,15.0,Maria Fernanda,Belo Horizonte,MG,75.0
+497,2024-03-25,Camisa,Moda,2,50.0,Sophia,São Paulo,SP,100.0
+498,2024-03-03,Relógio,Acessórios,2,600.0,Rodrigo,Belo Horizonte,MG,1200.0
+499,2024-03-07,Relógio,Acessórios,1,600.0,Olivia,Campinas,SP,600.0
+500,2024-03-16,Jaqueta,Moda,5,250.0,Isadora,Curitiba,PR,1250.0
